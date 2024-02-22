@@ -55,6 +55,7 @@
 				spring-cloud-starter-netflix-hystrix
 			</artifactId>
 		</dependency>
+		
 	</dependencies>
 
 	<build>
